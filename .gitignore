@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+src/fb.js
 # production
 /build
 
