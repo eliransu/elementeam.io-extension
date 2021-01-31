@@ -9,7 +9,7 @@
 /coverage
 src/fb.js
 # production
-/build
+/build*
 
 # misc
 .DS_Store
